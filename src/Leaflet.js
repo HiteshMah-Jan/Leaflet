@@ -2,6 +2,9 @@
 import {version} from '../package.json';
 export {version};
 
+const salary = "erger";
+const emailId = "rjgner@regev.com";
+
 // control
 export * from './control/index';
 
